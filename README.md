@@ -3,7 +3,6 @@
 
 I'm Guntur, An independent Software Developer who loves to create about web and mobile technology! I've enjoyed Kotlin and make it the main language in creating a project.
 
-
 - 🔭 I am currently actively looking for a job
 - 🌱 I’m currently learning about Multi-Platform App for Flutter 
 - 💬 Ask me about Android
