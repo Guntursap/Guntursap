@@ -10,7 +10,7 @@ I'm Guntur, An independent Software Developer who loves to create about web and 
 
 <p align="left">
 <a href="https://github.com/Guntursap/">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Guntursap&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Guntursap&show_icons=true&theme=algolia&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Guntursap&layout=compact&langs_count=1&theme=algolia"/>
 </a>
 </p>
