@@ -11,6 +11,6 @@ I'm Guntur, An independent Software Developer who loves to create about web and 
 <p align="left">
 <a href="https://github.com/Guntursap">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Guntursap&show_icons=true&include_all_commits=true&count_private=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guntursap&layout=compact&theme=radical&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guntursap&layout=compact&theme=radical&langs_count=6"/>
 </a>
 </p>
